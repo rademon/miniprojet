@@ -1,0 +1,32 @@
+.class="titre"{
+  text-align: center;
+}
+
+
+li{
+    display: inline;
+}
+.menu{
+  background-color: #00AA99;
+}
+.menu a{
+  color: #FFFFFF;
+  text-decoration:none;
+}
+.menu ul > li:first-child{
+  float: right;
+  margin-right: 10%;
+  border: 1px solid white;
+  border-radius: 10%;
+}
+
+.menu a:hover{
+  text-decoration:underline;
+}
+
+
+
+.menu a:first-child{
+  
+  
+}

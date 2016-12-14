@@ -1,0 +1,35 @@
+html{
+    height: 700px;
+    width: 700px;
+    float: center;
+}
+
+.titre{
+  text-align: center;
+  background-color: grey;
+}
+
+
+.u{
+  border: 3px dotted black;
+}
+
+.menu li a{
+  border: 2px solid black;
+}
+
+
+ li{
+    display: inline;
+} 
+.menu{
+  background-color: grey;
+}
+ .menu a{
+  color: #FFFFFF;
+  text-decoration:none;
+}
+
+.menu a:hover{
+  text-decoration:underline;
+} 
