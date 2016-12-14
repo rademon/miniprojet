@@ -1,7 +1,19 @@
-html{
+.centrage{
     height: 700px;
     width: 700px;
-    float: center;
+
+}
+
+#wrap {
+    float: left;
+    position: relative;
+    left: 50%;
+}
+
+#content {
+    float: left;
+    position: relative;
+    left: -50%;
 }
 
 .titre{
