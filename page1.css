@@ -30,7 +30,7 @@ transition: 1s;
 }
 .profil_mess
 {
-  margin-top:-20px;
+  margin-top:-36px;
   margin-left:-40px;
   position: absolute;
   display: block;
@@ -57,7 +57,7 @@ transition: 1s;
 }
 .profil_mess:hover
 {
-  margin-top:-20px;
+  margin-top:-36px;
   margin-left:-40px;
   opacity: 1;
   -moz-opacity: 1;
@@ -80,7 +80,7 @@ transition: 1s;
 
 .profil_mess2
 {
-  margin-top:-20px;
+  margin-top:-36px;
   margin-left:100px;
   position: absolute;
   display: block;
@@ -107,7 +107,7 @@ transition: 1s;
 }
 .profil_mess2:hover
 {
-  margin-top:-20px;
+  margin-top:-36px;
   margin-left:100px;
   opacity: 1;
   -moz-opacity: 1;
@@ -130,7 +130,7 @@ transition: 1s;
 
 .profil_mess3
 {
-  margin-top:-20px;
+  margin-top:-36px;
   margin-left:239px;
   position: absolute;
   display: block;
@@ -157,7 +157,7 @@ transition: 1s;
 }
 .profil_mess3:hover
 {
-  margin-top:-20px;
+  margin-top:-36px;
   margin-left:239px;
   opacity: 1;
   -moz-opacity: 1;
@@ -182,7 +182,7 @@ transition: 1s;
 
 .profil_mess4
 {
-  margin-top:-20px;
+  margin-top:-36px;
   margin-left:379px;
   position: absolute;
   display: block;
@@ -209,7 +209,7 @@ transition: 1s;
 }
 .profil_mess4:hover
 {
-  margin-top:-20px;
+  margin-top:-36px;
   margin-left:379px;
   opacity: 1;
   -moz-opacity: 1;
@@ -231,7 +231,7 @@ transition: 1s;
 
 .profil_mess5
 {
-  margin-top:-20px;
+  margin-top:-36px;
   margin-left:519px;
   position: absolute;
   display: block;
@@ -258,7 +258,7 @@ transition: 1s;
 }
 .profil_mess5:hover
 {
-  margin-top:-20px;
+  margin-top:-36px;
   margin-left:519px;
   opacity: 1;
   -moz-opacity: 1;
@@ -331,7 +331,7 @@ transition: 1s;
 
 .profil_mess7
 {
-  margin-top:158px;
+  margin-top:140px;
   margin-left:-40px;
   position: absolute;
   display: block;
@@ -358,7 +358,7 @@ transition: 1s;
 }
 .profil_mess7:hover
 {
-  margin-top:152px;
+  margin-top:137px;
   margin-left:-40px;
   opacity: 1;
   -moz-opacity: 1;
@@ -381,11 +381,11 @@ transition: 1s;
 
 .profil_mess8
 {
-  margin-top:-20px;
-  margin-left:315px;
+  margin-top:-30x;
+  margin-left:0px;
   position: absolute;
   display: block;
-  width: 344px;
+  width: 340px;
   height: 350px;
   overflow: auto;
   background: #5F5F5F;
@@ -408,8 +408,8 @@ transition: 1s;
 }
 .profil_mess8:hover
 {
-  margin-top:-20px;
-  margin-left:315px;
+  margin-top:0px;
+  margin-left:0px;
   opacity: 1;
   -moz-opacity: 1;
   -khtml-opacity: 1;
@@ -605,10 +605,29 @@ transition: 1s;
 }
 
 
-.u{
+/*.u{
     border: 3px dotted black;
-  height:350px;
+    height:350px;
+}*/
+.menu{
+    border: 3px dotted black;
+    height:350px;
 }
+.menu2{
+    border: 3px dotted black;
+    height:350px;
+    width:350px;
+    background-color: grey;
+}
+.menu3{
+    border: 3px dotted black;
+    margin-left:360px;
+    margin-top:-356px;
+    height:350px;
+    width:340px;
+    background-color: grey;
+}
+
 
 .menu li a{
 /*  border: 2px solid black; */
