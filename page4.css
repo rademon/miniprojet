@@ -576,6 +576,7 @@ transition: 1s;
     position: relative;
     left: 50%;
     width: 700px;
+    transform:rotate(0.2deg);
 }
 
 #content {
@@ -583,6 +584,7 @@ transition: 1s;
     position: relative;
     left: -50%;
     width: 705px;
+    transform:rotate(0.2deg);
 }
 
 .titre{
