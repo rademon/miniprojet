@@ -1,0 +1,43 @@
+              /*      CENTRAGE     */
+
+#wrap {
+    float: left;
+    position: relative;
+    left: 50%;
+    width: 350px;
+}
+
+#content {
+    float: left;
+    position: relative;
+    left: -50%;
+    width: 353px;
+}
+
+              /*      FIN CENTRAGE     */
+
+              /*      LIVRE     */
+
+#livre{
+  height:493px;
+  width:600px;
+  background-image:url(http://image.noelshack.com/fichiers/2016/52/1483115899-6c01b254.png);
+}
+
+.pagegauche{
+  height:360px;
+  width:200px;
+  float:left;
+  margin-top:20px;
+  margin-left:75px;
+  overflow:auto;
+}
+
+.pagedroite{
+  height:360px;
+  width:200px;
+  float:left;
+  margin-top:20px;
+  margin-left:35px;
+  overflow:auto;
+}
